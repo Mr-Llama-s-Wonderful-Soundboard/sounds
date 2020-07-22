@@ -1,0 +1,17 @@
+List([
+	(
+		name: "elloMate",
+		wav: "elloMate.wav",
+		img: None
+	),
+	(
+		name: "PootisEngage",
+		wav: "POOTIS ENGAGE.wav",
+		img: Some("POOTIS ENGAGE.png")
+	),
+	(
+		name: "Maybe",
+		wav: "Maybe.wav",
+		img: None
+	)
+])
