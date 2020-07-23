@@ -18,5 +18,10 @@
 		name: "Ah the memes",
 		wav: "the_memes.wav",
 		img: None
+	),
+	(
+		name: "My body tells me yes",
+		wav: "my_body_tells_yes.wav",
+		img: None
 	)
 ]
