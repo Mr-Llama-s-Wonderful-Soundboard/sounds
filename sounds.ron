@@ -13,5 +13,10 @@
 		name: "Maybe",
 		wav: "Maybe.wav",
 		img: None
+	),
+	(
+		name: "Ah the memes",
+		wav: "the_memes.wav",
+		img: None
 	)
 ]
