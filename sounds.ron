@@ -1,4 +1,4 @@
-List([
+[
 	(
 		name: "elloMate",
 		wav: "elloMate.wav",
@@ -14,4 +14,4 @@ List([
 		wav: "Maybe.wav",
 		img: None
 	)
-])
+]
