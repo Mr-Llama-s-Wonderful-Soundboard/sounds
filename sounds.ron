@@ -14,7 +14,7 @@
 		(
 			name: "Maybe",
 			wav: "Maybe.wav",
-			img: None
+			img: Some("Maybe.png")
 		),
 		(
 			name: "Hoh the memes",
