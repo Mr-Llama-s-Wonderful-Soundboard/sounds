@@ -40,6 +40,11 @@
 			name: "Zeus!",
 			wav: "zeus.mp3",
 			img: None
+		),
+		(
+			name: "Pootis!",
+			wav: "pootis.mp3",
+			img: None
 		)
 	]
 )
