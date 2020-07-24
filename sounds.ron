@@ -1,27 +1,30 @@
-[
-	(
-		name: "elloMate",
-		wav: "elloMate.wav",
-		img: None
-	),
-	(
-		name: "PootisEngage",
-		wav: "POOTIS ENGAGE.wav",
-		img: Some("POOTIS ENGAGE.png")
-	),
-	(
-		name: "Maybe",
-		wav: "Maybe.wav",
-		img: None
-	),
-	(
-		name: "Ah the memes",
-		wav: "the_memes.wav",
-		img: None
-	),
-	(
-		name: "My body tells me yes",
-		wav: "my_body_tells_yes.wav",
-		img: None
-	)
-]
+(
+	default_img: "default.jpg",
+	sounds: [
+		(
+			name: "elloMate",
+			wav: "elloMate.wav",
+			img: None
+		),
+		(
+			name: "PootisEngage",
+			wav: "POOTIS ENGAGE.wav",
+			img: Some("POOTIS ENGAGE.png")
+		),
+		(
+			name: "Maybe",
+			wav: "Maybe.wav",
+			img: None
+		),
+		(
+			name: "Ah the memes",
+			wav: "the_memes.wav",
+			img: None
+		),
+		(
+			name: "My body tells me yes",
+			wav: "my_body_tells_yes.wav",
+			img: None
+		)
+	]
+)
