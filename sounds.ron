@@ -17,13 +17,28 @@
 			img: None
 		),
 		(
-			name: "Ah the memes",
+			name: "Hoh the memes",
 			wav: "the_memes.wav",
 			img: None
 		),
 		(
 			name: "My body tells me yes",
 			wav: "my_body_tells_yes.wav",
+			img: None
+		),
+		(
+			name: "Somebody!",
+			wav: "somebody.wav",
+			img: None
+		),
+		(
+			name: "WAH",
+			wav: "waluigi_wah.mp3",
+			img: None
+		),
+		(
+			name: "Zeus!",
+			wav: "zeus.mp3",
 			img: None
 		)
 	]
