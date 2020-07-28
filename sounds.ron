@@ -49,7 +49,7 @@
 		(
 			name: "AAAAAAAAAA",
 			wav: "BASS_AA.wav",
-			img: None
+			img: Some("aaaa.png")
 		)
 	]
 )
