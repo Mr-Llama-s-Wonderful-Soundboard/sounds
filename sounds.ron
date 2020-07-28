@@ -45,6 +45,11 @@
 			name: "Pootis!",
 			wav: "pootis.mp3",
 			img: None
+		),
+		(
+			name: "AAAAAAAAAA",
+			wav: "BASS_AA.wav",
+			img: None
 		)
 	]
 )
