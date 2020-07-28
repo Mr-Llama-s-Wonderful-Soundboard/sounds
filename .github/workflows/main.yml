@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Zip repo
+name: Zip commmit
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
@@ -19,3 +19,7 @@ jobs:
         with:
           files: ./
           dest: result.zip
+      - uses: actions/upload-artifact@v1
+        with:
+          name: zipped_commit
+          path: ${{ github.workspace }}/result.zip
