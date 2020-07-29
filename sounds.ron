@@ -85,6 +85,11 @@
 			name: "Our anthem",
 			wav: "National Anthem of USSR.mp3",
 			img: Some("USSR.jpg")
+		),
+		(
+			name: "HONHONHON",
+			wav: "honhonhon.mp3",
+			img: None
 		)
 	]
 )
