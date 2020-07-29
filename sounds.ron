@@ -83,8 +83,8 @@
 		),
 		(
 			name: "Our anthem",
-			wav: "National Anthem of USSR",
-			img: None
+			wav: "National Anthem of USSR.mp3",
+			img: Some("USSR.jpg")
 		)
 	]
 )
