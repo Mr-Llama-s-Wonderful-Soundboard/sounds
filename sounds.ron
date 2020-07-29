@@ -80,6 +80,11 @@
 			name: "I need a medic bag",
 			wav: "medic bag.wav",
 			img: None
+		),
+		(
+			name: "Our anthem",
+			wav: "National Anthem of USSR",
+			img: None
 		)
 	]
 )
