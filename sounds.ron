@@ -50,6 +50,36 @@
 			name: "AAAAAAAAAA",
 			wav: "BASS_AA.wav",
 			img: Some("aaaa.png")
+		),
+		(
+			name: "Good memes",
+			wav: "good_memes.wav",
+			img: None
+		),
+		(
+			name: "Bulletproof",
+			wav: "bulletproof.wav",
+			img: None
+		),
+		(
+			name: "Jeesus!",
+			wav: "jesus.wav",
+			img: None
+		),
+		(
+			name: "Let me in!!!",
+			wav: "let me in.wav",
+			img: None
+		),
+		(
+			name: "Sandvich",
+			wav: "sandvich.wav",
+			img: None
+		),
+		(
+			name: "I need a medic bag",
+			wav: "medic bag.wav",
+			img: None
 		)
 	]
 )
