@@ -90,6 +90,21 @@
 			name: "HONHONHON",
 			wav: "honhonhon.mp3",
 			img: None
+		),
+		(
+			name: "You have chosen death",
+			wav: "you have chosen death.wav",
+			img: None
+		),
+		(
+			name: "Enthusiasm",
+			wav: "enthusiasm.mp3",
+			img: None
+		),
+		(
+			name: "Just do it",
+			wav: "just do it.mp3",
+			img: None
 		)
 	]
 )
