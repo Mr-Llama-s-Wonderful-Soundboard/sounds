@@ -105,6 +105,16 @@
 			name: "Just do it",
 			wav: "just do it.mp3",
 			img: None
+		),
+		(
+			name: "Mio honda",
+			wav: "mio-honda-step-4k.mp3",
+			img: None
+		),
+		(
+			name: "Fix you",
+			wav: "coldplay-fix-you-lyrics.mp3",
+			img: None
 		)
 	]
 )
