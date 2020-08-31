@@ -115,6 +115,21 @@
 			name: "Fix you",
 			wav: "FixYou.wav",
 			img: None
+		),
+		(
+			name: "Never gonna",
+			wav: "NeverGonna.wav",
+			img: None
+		),
+		(
+			name: "You know the rules",
+			wav: "YouKnowTheRules.wav",
+			img: None
+		),
+		(
+			name: "Rick roll start",
+			wav: "RICKROLL_INIT.wav",
+			img: None
 		)
 	]
 )
