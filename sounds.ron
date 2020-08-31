@@ -108,12 +108,12 @@
 		),
 		(
 			name: "Mio honda",
-			wav: "mio-honda-step-4k.mp3",
+			wav: "MioHonda.wav",
 			img: None
 		),
 		(
 			name: "Fix you",
-			wav: "coldplay-fix-you-lyrics.mp3",
+			wav: "FixYou.wav",
 			img: None
 		)
 	]
