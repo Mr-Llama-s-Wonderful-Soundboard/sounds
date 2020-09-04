@@ -24,6 +24,7 @@ jobs:
       - name: Add version file
         run: git rev-parse --short HEAD > version.txt
       - name: Delete tag and release
+        uses: dev-drprasad/delete-tag-and-release@v0.1.2
         with:
           tag_name: latest
       - name: Release
