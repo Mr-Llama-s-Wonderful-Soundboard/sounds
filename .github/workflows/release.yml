@@ -25,8 +25,8 @@ jobs:
         run: git rev-parse --short HEAD > version.txt
       - name: Release
         uses: softprops/action-gh-release@v1
-        if: startsWith(github.ref, 'refs/tags/')
         with:
+          tag_name: ${{github.ref}}
           prerelease: true
           files: |
             version.txt
