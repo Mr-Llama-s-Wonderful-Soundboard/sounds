@@ -27,6 +27,8 @@ jobs:
         uses: dev-drprasad/delete-tag-and-release@v0.1.2
         with:
           tag_name: latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
