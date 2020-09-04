@@ -1,5 +1,6 @@
 (
 	default_img: "default.jpg",
+	name: "Miscellaneous",
 	sounds: [
 		(
 			name: "elloMate",
