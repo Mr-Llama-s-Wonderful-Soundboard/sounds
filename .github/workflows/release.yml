@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: sudo apt install zip
       - name: Zip files
-        run: mv * data/ && zip -r sounds.zip data
+        run: mkdir data && mv * data/ && zip -r sounds.zip data
       - name: Add version file
         run: git rev-parse --short HEAD > version.txt
       - name: Release
